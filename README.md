@@ -1,5 +1,5 @@
 # 本项目仅供个人使用，更多精彩内容请关注原作者 #
-## [原创地址](http://herozhou.coding.me/vue-framework-wz/#/dashboard) ##
+## [原创地址](https://github.com/herozhou/vue-framework-wz/wiki/English-Document) ##
 
 
 [![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg)]() [![npm](https://img.shields.io/npm/dw/localeval.svg)]() [![npm](https://img.shields.io/npm/v/npm.svg)]() [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/nimelepbpejjlbmoobocpfnjhihnpked.svg)]()[![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc//github.com/gorilla/mux.svg)]()[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)]()
